@@ -1,5 +1,7 @@
 # GoodiesForEmployeesOutput
 
+Note:The output video is uploaded and to view we have to download the video
+
 Steps to run the program:
 
 Note:There are 2 classes one is my helper class and one is my main class
